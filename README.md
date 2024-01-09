@@ -1,4 +1,5 @@
 # AdvancedSQL
+[![](https://jitpack.io/v/JkqzDev/AdvancedSQL.svg)](https://jitpack.io/#JkqzDev/AdvancedSQL)
 The best Java query builder/SQL connector.
 
 ## What's AdvancedSQL?
