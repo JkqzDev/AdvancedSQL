@@ -9,12 +9,17 @@ Download the latest JAR: https://github.com/DenzelCode/AdvancedSQL/releases/late
 
 ## Dependency for maven:
 ```
+<repositories>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
+</repositories>
+
 <dependency>
-    <groupId>com.code</groupId>
-    <artifactId>advancedsql</artifactId>
-    <version>2.0.0</version>
-    <scope>system</scope>
-    <systemPath>${project.basedir}/lib/AdvancedSQL.jar</systemPath>
+    <groupId>com.github.JkqzDev</groupId>
+    <artifactId>AdvancedSQL</artifactId>
+    <version>2.3</version>
 </dependency>
 ```
 
